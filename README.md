@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://priyanshusinghchouhan.github.io/Banner/" width="300" alt="Centered image">
-</p>
-
 <h1 align="center">Hi there, I am Priyanshu 👋</h1>
 <h3 align="center">⚙️ Passionate about Code, Product, and Problem Solving ⚙️</h3>
 
