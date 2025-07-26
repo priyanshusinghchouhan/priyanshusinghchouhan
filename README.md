@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://priyanshusinghchouhan.github.io/Banner/" width="300" alt="Centered image">
+</p>
+
 <h1 align="center">Hi there, I am Priyanshu 👋</h1>
 <h3 align="center">⚙️ Passionate about Code, Product, and Problem Solving ⚙️</h3>
 
@@ -9,7 +13,7 @@
 
 - 🔭 I’m currently working on **React.js projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Full Stack + AI**
 
 - 📫 How to reach me **janneker9@gmail.com**
 
