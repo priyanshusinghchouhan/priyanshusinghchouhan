@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshusinghchouhan" alt="priyanshusinghchouhan" /></a> </p>
 
-<p align="left"> <a href="https://x.com/priyansuSingh_X" target="blank"><img src="https://img.shields.io/twitter/follow/priyansusingh_x?logo=twitter&style=for-the-badge" alt="priyansusingh_x" /></a> </p>
-
 - 🔭 I’m currently working on **React.js projects**
 
 - 🌱 I’m currently learning **Full Stack + AI**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/priyansuSingh_X" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg?20230724061250" alt="priyansusingh_x" height="30" width="40" /></a>
+<a href="https://x.com/priyansuSingh_X" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg?20230724061250" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zel-trax-bbb5a7247/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="" height="30" width="40" /></a>
 </p>
 
