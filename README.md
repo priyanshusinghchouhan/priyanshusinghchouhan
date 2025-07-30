@@ -46,13 +46,11 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
-- **Other Tools**:  
+- **Software Development Tools**:  
   <div align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-  </div>
-
-- **IDEs**:  
-  <div align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WaaXnUvhvrswhBJSw4YTuQ.png" height="28" width="65px" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cLYb3fm4zU6LhjHu.png" height="30px"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
   </div>
 
