@@ -21,8 +21,10 @@
 
 - **Languages**:  
   <div align="left">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </div>
 
 - **Frameworks and Libraries**:  
@@ -52,6 +54,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WaaXnUvhvrswhBJSw4YTuQ.png" height="28" width="65px" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cLYb3fm4zU6LhjHu.png" height="30px"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
+    <img src="https://db0dce98.delivery.rocketcdn.me/en/files/2024/01/jupyter.webp" height="28px" width="65px"/> 
   </div>
 
 
