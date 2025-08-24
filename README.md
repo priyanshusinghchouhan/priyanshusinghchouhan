@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusinghchouhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshusinghchouhan" alt="priyanshusinghchouhan" /></a> </p>
-
 - 🔭 I’m currently working on **React.js projects**
 
 - 🌱 I’m currently learning **Full Stack + AI**
