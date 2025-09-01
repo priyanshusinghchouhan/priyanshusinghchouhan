@@ -57,9 +57,9 @@
   </div>
 
 
-![priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshusinghchouhan&show_icons=true&theme=tokyonight)
+![priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshusinghchouhan&show_icons=true&theme=tokyonight&hide_border=true)
 ![priyanshu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusinghchouhan&theme=tokyonight&hide_border=true)
-![priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusinghchouhan&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusinghchouhan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
