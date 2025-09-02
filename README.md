@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusinghchouhan" /> </p>
 
-- 🔭 I’m currently working on **React.js projects**
+- 🔭 I’m currently working on **Typescript's project**
 
 - 🌱 I’m currently learning **Full Stack + AI**
 
