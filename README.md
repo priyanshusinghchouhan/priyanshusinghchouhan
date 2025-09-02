@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusinghchouhan" /> </p>
 
-- 🔭 I’m currently working on **Typescript's project**
+- 🔭 I’m currently working on **Typescript** and **React.js** projects.
 
 - 🌱 I’m currently learning **Full Stack + AI**
 
@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
 
 - **Frameworks and Libraries**:  
