@@ -56,6 +56,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cLYb3fm4zU6LhjHu.png" height="30px"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
     <img src="https://db0dce98.delivery.rocketcdn.me/en/files/2024/01/jupyter.webp" height="28px" width="65px"/> 
+    <img src="https://datascientest.com/wp-content/uploads/2023/09/0_We_PEqBslzH5XIiB-1024x576.jpg" height="28px" width="65px"/> 
   </div>
 
 
