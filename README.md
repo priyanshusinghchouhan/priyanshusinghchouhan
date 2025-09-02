@@ -28,24 +28,15 @@
 
 - **Frameworks and Libraries**:  
   <div align="left"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />   
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*Wj5o6XY8iy3Ybt1b.png" height="28" width="65px" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-- **Web Development**:  
-  <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-  </div>
-
 - **Backend Development**:  
   <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
@@ -54,10 +45,18 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WaaXnUvhvrswhBJSw4YTuQ.png" height="28" width="65px" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cLYb3fm4zU6LhjHu.png" height="30px"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
+      
     <img src="https://db0dce98.delivery.rocketcdn.me/en/files/2024/01/jupyter.webp" height="28px" width="65px"/> 
     <img src="https://datascientest.com/wp-content/uploads/2023/09/0_We_PEqBslzH5XIiB-1024x576.jpg" height="28px" width="65px"/> 
+    
   </div>
+
+ - **IDEs**:
+   <div align="left">
+     <img src="https://www.paigeniedringhaus.com/static/123a0357aa1f654aadc27b29b75b3c04/e88ff/vs-code-logo-hero.webp" height="28px" width="50px" />
+     <img src="https://editorconfig.org/logos/intellijIDEA.png" height="28px" width="70px"/> 
+   </div>
+   
 
 
 ![priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshusinghchouhan&show_icons=true&theme=tokyonight&hide_border=true)
